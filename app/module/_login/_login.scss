@@ -49,3 +49,9 @@
     display: inline-block;
   }
 }
+
+@media (max-width: 375px){
+  .modal__link{
+    margin: 0 20px;
+  }
+}
